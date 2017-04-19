@@ -25,8 +25,8 @@
   ],
   "dependencies": {
     "polymer": "Polymer/polymer#^1.1.0",
-    "titanium-currency": "*",
-    "titanium-form-behavior": "^0.1.0"
+    "titanium-currency": "LssPolymerElements/titanium-currency#^0.1.0",
+    "titanium-form-behavior": "LssPolymerElements/titanium-form-behavior#^0.1.0"
   },
   "devDependencies": {
     "web-component-tester": "^4.0.0",
