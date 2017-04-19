@@ -24,8 +24,8 @@
     "tests"
   ],
   "dependencies": {
-    "titanium-currency": "LssPolymerElements/titanium-currency#^0.0.0",
-    "titanium-form-behavior": "LssPolymerElements/titanium-form-behavior#^0.1.0"
+    "titanium-currency": "LssPolymerElements/titanium-currency#*",
+    "titanium-form-behavior": "LssPolymerElements/titanium-form-behavior#*"
   },
   "devDependencies": {
     "web-component-tester": "^4.0.0",
