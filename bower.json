@@ -24,9 +24,10 @@
     "tests"
   ],
   "dependencies": {
-    "polymer": "Polymer/polymer#^1.1.0",
-    "titanium-currency": "LssPolymerElements/titanium-currency#^0.1.0",
-    "titanium-form-behavior": "LssPolymerElements/titanium-form-behavior#^0.1.0"
+    "platinum-bluetooth": "PolymerElements/platinum-bluetooth#^2.0.0",
+    "platinum-https-redirect": "PolymerElements/platinum-https-redirect#^1.0.0",
+    "platinum-push-messaging": "PolymerElements/platinum-push-messaging#^1.0.0",
+    "platinum-sw": "PolymerElements/platinum-sw#^1.2.0"
   },
   "devDependencies": {
     "web-component-tester": "^4.0.0",
