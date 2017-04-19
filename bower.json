@@ -4,7 +4,7 @@
   "keywords": [
     "polymer",
     "bowser",
-	"element-collection"
+    "element-collection"
   ],
   "authors": [
     "Aaron Drabeck <aaron-drabeck@leavitt.com>",
@@ -25,8 +25,8 @@
   ],
   "dependencies": {
     "polymer": "Polymer/polymer#^1.1.0",
-	"titanium-currency": "*",
-	"titanium-form-behavior": "*"
+    "titanium-currency": "*",
+    "titanium-form-behavior": "^0.1.0"
   },
   "devDependencies": {
     "web-component-tester": "^4.0.0",
