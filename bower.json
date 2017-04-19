@@ -1,0 +1,38 @@
+{
+  "name": "titanium-form-behavior",
+  "version": "1.0.0",
+  "keywords": [
+    "polymer",
+    "bowser",
+	"element-collection"
+  ],
+  "authors": [
+    "Aaron Drabeck <aaron-drabeck@leavitt.com>",
+    "Anthony Thomas <anthony-thomas@leavitt.com>",
+    "Wyatt Morrow <wyatt-morrow@leavitt.com>",
+    "Kasey Hinton <kasey-hinton@leavitt.com>",
+    "Shawn Johnson <shawn-johnson@leavitt.com>"
+  ],
+  "main": "titanium-elements.html",
+  "description": "Elements that provide output formatting, form behaviors and more.",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "polymer": "Polymer/polymer#^1.1.0",
+	"titanium-currency": "*",
+	"titanium-form-behavior": "*"
+  },
+  "devDependencies": {
+    "web-component-tester": "^4.0.0",
+    "webcomponentsjs": "webcomponents/webcomponentsjs#^0.7.0",
+    "iron-component-page": "PolymerElements/iron-component-page#^1.1.8",
+    "polymer-ts": "^0.1.29",
+    "iron-demo-helpers": "^1.2.5"
+  }
+}
