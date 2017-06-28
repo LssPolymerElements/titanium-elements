@@ -25,7 +25,9 @@
   ],
   "dependencies": {
     "titanium-currency": "LssPolymerElements/titanium-currency#*",
-    "titanium-form-behavior": "LssPolymerElements/titanium-form-behavior#*"
+    "titanium-form-behavior": "LssPolymerElements/titanium-form-behavior#*",
+    "titanium-circle-letter-icon": "LssPolymerElements/titanium-circle-letter-icon#*",
+    "titanium-icon-input-container": "LssPolymerElements/titanium-icon-input-container#*"    
   },
   "devDependencies": {
     "web-component-tester": "^4.0.0",
