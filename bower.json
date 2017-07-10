@@ -26,7 +26,8 @@
   "dependencies": {
     "titanium-currency": "LssPolymerElements/titanium-currency#*",
     "titanium-form-behavior": "LssPolymerElements/titanium-form-behavior#*",
-    "titanium-circle-letter-icon": "LssPolymerElements/titanium-circle-letter-icon#*",
+	"titanium-circle-letter-icon": "LssPolymerElements/titanium-circle-letter-icon#*",
+    "titanium-letter-selectable-list-item": "LssPolymerElements/titanium-letter-selectable-list-item#*",
     "titanium-icon-input-container": "LssPolymerElements/titanium-icon-input-container#*",
     "lss-paper-date-picker": "LssPolymerElements/lss-paper-date-picker#*"    
     
